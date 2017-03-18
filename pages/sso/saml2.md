@@ -1,10 +1,10 @@
 ---
-title: Sample 1 Topic (Product 1)
-keywords: sample
+title: saml2 (adfs) sso
+keywords: sso
 summary: "This is just a sample topic..."
 sidebar: product1_sidebar
-permalink: p1_sample1.html
-folder: product1
+permalink: saml2.html
+folder: sso
 ---
 
 ## Sample Content

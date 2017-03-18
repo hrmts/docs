@@ -23,13 +23,9 @@ entries:
   - title: SSO login alternatives
     output: web, pdf
     folderitems:
-    - title: Saml2.0 (adfs)
+    - title: Saml 2.0 (adfs)
       url: /sso_landing_page.html
       output: web
-
-    - title: saml2
-      url: /saml2.html
-      output: web, pdf
 
     - title: azure
       url: /azure.html

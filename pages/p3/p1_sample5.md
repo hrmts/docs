@@ -1,10 +1,10 @@
 ---
-title: Sample 1 Topic (Product 1)
+title: Sample 5 Topic (Product 1)
 keywords: sample
 summary: "This is just a sample topic..."
 sidebar: product1_sidebar
-permalink: SAML2.html
-folder: SSO
+permalink: p1_sample5.html
+folder: product1
 ---
 
 ## Sample Content

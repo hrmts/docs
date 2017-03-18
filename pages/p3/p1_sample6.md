@@ -1,10 +1,10 @@
 ---
-title: Sample 1 Topic (Product 1)
-keywords: azure
+title: Sample 6 Topic (Product 1)
+keywords: sample
 summary: "This is just a sample topic..."
 sidebar: product1_sidebar
-permalink: azure.html
-folder: SSO
+permalink: p1_sample6.html
+folder: product1
 ---
 
 ## Sample Content

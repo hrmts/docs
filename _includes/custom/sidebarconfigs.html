@@ -7,8 +7,8 @@
 {% elsif page.sidebar == "product2_sidebar" %}
 {% assign sidebar = site.data.sidebars.product2_sidebar.entries %}
 
-{% elsif page.sidebar == "SSO_sidebar" %}
-{% assign sidebar = site.data.sidebars.SSO_sidebar.entries %}
+{% elsif page.sidebar == "sso_sidebar" %}
+{% assign sidebar = site.data.sidebars.sso_sidebar.entries %}
 
 {% elsif page.sidebar == "mydoc_sidebar" %}
 {% assign sidebar = site.data.sidebars.mydoc_sidebar.entries %}
@@ -35,6 +35,6 @@ sidebar configuration for print files
 {% assign sidebar_pdf = site.data.sidebars.product2_sidebar.entries %}
 {% endif %}
 
-{% if site.product == "SSO" %}
-{% assign sidebar_pdf = site.data.sidebars.SSO_sidebar.entries %}
+{% if site.product == "sso" %}
+{% assign sidebar_pdf = site.data.sidebars.sso_sidebar.entries %}
 {% endif %}

@@ -1,8 +1,8 @@
 ---
-title: saml2 (adfs) sso
+title: saml 2.0 (adfs) sso
 keywords: sso
 summary: "This is just a sample topic..."
-sidebar: product1_sidebar
+sidebar: sso_sidebar
 permalink: saml2.html
 folder: sso
 ---

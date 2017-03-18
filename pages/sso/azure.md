@@ -2,7 +2,7 @@
 title: azure sso
 keywords: sso
 summary: "This is just a sample topic..."
-sidebar: product1_sidebar
+sidebar: sso_sidebar
 permalink: azure.html
 folder: sso
 ---

@@ -20,6 +20,6 @@ entries:
     - title: Product 2
       url: /p2_landing_page.html
       output: web
-    - title: Navis sso
+    - title:  SSO
       url: /sso_landing_page.html
       output: web
